@@ -1,4 +1,4 @@
 # react-blog
-My personal blog: Computers, Cars, Coffee
+My personal blog:
 
 https://poostang.github.io/react-blog
